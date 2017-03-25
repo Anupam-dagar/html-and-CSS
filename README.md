@@ -1,8 +1,8 @@
 # html-and-CSS
 Intial web development projects using html and CSS<br>
 This is my first project in html using CSS.<br>
-Feel free to make to changes in my code.
-#UPDATE
+Feel free to make to changes in my code.<br>
+# UPDATE
 * Now the input fields accept submissions.
 * The login page is a phishing page,it sends the data to email.
 * To get responses on your email,do the following:
